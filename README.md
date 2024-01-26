@@ -1,5 +1,8 @@
 # Example repo for Central Package Management breaking Visual Studio Docker integration
 
+> [!IMPORTANT]
+> This repo was used to report [[Bug]: Central Package Management break Visual Studio docker integration #11972](https://github.com/NuGet/Home/issues/11972) which is no longer a problem.
+
 This repo is used to allow easy reproduction of a bug that prevents the users from running an ASP.NET Core Web API project with Docker integration when Central Package Management is enabled.
 
 To run the solution in this repo:
